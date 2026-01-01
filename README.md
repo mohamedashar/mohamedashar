@@ -60,7 +60,7 @@ I focus on building **clean, responsive, and user-friendly applications**, desig
 
 ## 📜 Certifications
 
-- Ethical Hacking — Cisco Networking Academy  
+- Ethical Hacker — Cisco Networking Academy  
 - Cybersecurity Fundamentals — IBM  
 - Data Privacy Fundamentals — IBM  
 
