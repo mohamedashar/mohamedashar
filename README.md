@@ -1,16 +1,38 @@
-## Hi there 👋
+<p align="center">
+  <img src="./banner.png" alt="GitHub Banner" />
+</p>
 
-<!--
-**mohamedashar/mohamedashar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
 
-Here are some ideas to get you started:
+I am a **B.Tech Information Technology student** with a strong interest in **Full Stack Development, UI/UX Design, and Cybersecurity**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building clean, responsive, and performance-focused applications while continuously learning new technologies.
+
+## 🛠️ Skills
+
+**Frontend**
+- HTML, CSS, JavaScript
+- React, Vite, Tailwind CSS
+
+**Backend**
+- Node.js, REST APIs (Basics)
+
+**UI / UX**
+- Figma, Responsive Design
+
+**Cybersecurity**
+- Security Fundamentals
+- Ethical Hacking Basics
+
+**Tools**
+- Git, GitHub, VS Code, Linux
+
+## 🚀 Currently
+
+- Building my personal portfolio
+- Learning modern UI effects
+- Improving security awareness
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/mohamedashar
